@@ -18,8 +18,7 @@ Long Description about project. This project do that. This project is awesome...
 ##product walkthrough
 (https://youtu.be/BXe2ELKg1VI?si=O2RWz_n97gW8s9HG))
 ## How it Works ?
-1. Explaining the working of project 
-2. https://youtu.be/BXe2ELKg1VI?si=O2RWz_n97gW8s9HG
+  https://youtu.be/BXe2ELKg1VI?si=O2RWz_n97gW8s9HG
 ## Libraries used
 Django
 
