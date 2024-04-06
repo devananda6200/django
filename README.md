@@ -4,11 +4,13 @@
 
 
 
-# Project Name
+# Todo list app
 Long Description about project. This project do that. This project is awesome...
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1.Irine Paul (https://github.com/irinepaul8I)
+2.Aswathy Gopinath(https://github.com/Aswathy-Gopinath)
+3.Deva Nanda Nair(https://github.com/devananda6200)
+4.Festin Biju(https://github.com/FestinBiju)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
