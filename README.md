@@ -15,14 +15,22 @@ Long Description about project. This project do that. This project is awesome...
 
 4.Festin Biju(https://github.com/FestinBiju)
 
-## Link to product walkthrough
-[link to video](Link Here)
+##product walkthrough
+(https://youtu.be/BXe2ELKg1VI?si=O2RWz_n97gW8s9HG))
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. Explaining the working of project 
+2. https://youtu.be/BXe2ELKg1VI?si=O2RWz_n97gW8s9HG
 ## Libraries used
-Library Name - Version
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+Django
+
+crispy_forms
+## How to run
+Open Visual Studio Code: Launch Visual Studio Code by navigating to the directory where your Django project is located and typing code . in the terminal.
+
+Install Python Extension: Make sure you have the Python extension installed in Visual Studio Code. You can search for it in the Extensions view (Ctrl+Shift+X) and install it if you haven't already. This extension provides Python language support and enables features such as linting, debugging, and IntelliSense.
+
+Open the Project: Open your Django project folder in Visual Studio Code.
+
+Run the Development Server: Open a new terminal in Visual Studio Code and navigate to your project directory. Then run the Django development server using the command python manage.py runserver.
+
+
